@@ -23,3 +23,8 @@
     src: url("../fonts/Barlow-SemiBold.ttf") format("woff");
 
 }
+@font-face {
+    font-family: Roboto-Medium;
+    src: url("../fonts/Roboto-Medium.ttf") format("woff");
+
+}

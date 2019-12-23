@@ -62,7 +62,7 @@ body
 .main-top
     display: flex
 .left
-    background: url(../img/image-left-top.png) no-repeat
+    background: url(../img/image-left-top.png) round
     background-size: cover
     width: 50%
     height: 500px
@@ -465,7 +465,7 @@ body
     
 @media ( max-width: 992px )
     .burger-menu
-        display: block
+        display: flex
         width: 15%
     
     .tellefone-mobile
@@ -473,6 +473,11 @@ body
         margin-right: 15px
         width: 25%
         max-width: 100px
+        line-height: 30px
+
+    .tellefone-mobile span
+        color: rgb(34, 96, 167)
+        font-family: Roboto-Medium
 
     .logo
         width: 60%
@@ -703,3 +708,90 @@ body
 
     .bottom-menu__list li:last-child
         border-left: 2px solid black
+
+
+
+//media 767
+
+
+@media ( max-width: 767px )
+    .right-middle__left-block span
+        font-size: 40px
+
+    .right-middle__right-block
+        padding-left: 10px
+        padding-right: 10px
+
+    .right-middle__left-block
+        padding-left: 10px
+        padding-right: 10px
+
+    .footer-bottom__text
+        flex-direction: column
+        line-height: 25px
+
+@media ( max-width: 576px )
+    .right-middle__right-block__tellefone
+        font-size: 20px
+
+    .logo
+        padding-left: 10px
+        padding-right: 10px
+
+    .tellefone-mobile
+        margin-right: 0
+
+    .left
+        height: 350px
+
+    .right__text
+        padding-right: 0
+
+    .right__link
+        text-align: left
+
+    .main-bottom__left__title__two
+        font-size: 30px
+    .main-bottom__left__title__one
+        font-size: 30px
+
+    .main-bottom__right__title__two
+        font-size: 25px
+
+    .main-bottom__right__title__one
+        font-size: 25px
+    
+    .main-bottom-left__photo
+        text-align: center
+    .main-bottom-left__photo img
+        width: 90%
+
+    // .main-bottom-left__photo
+    //     height: 180px
+
+    .main-bottom__left__text
+        width: 100%
+
+    .main-bottom-left__photo
+        height: 0
+
+    .main-bottom__right img
+        width: 100%
+
+    .main-bottom__left img
+        width: 100%
+
+    .container.container-top
+        padding: 0 10px
+
+    .main-bottom__left__text p
+        padding-left: 10px
+
+    .main-bottom__right__text p
+        padding-left: 10px
+
+    .right-middle__left-block span
+        font-size: 35px
+
+    .right-middle__right-block__button
+        font-size: 14px
