@@ -467,7 +467,11 @@ body
     .burger-menu
         display: flex
         width: 15%
-    
+        z-index: 10
+
+    .burger-menu__btn.active span::before, .burger-menu__btn.active span::after
+        background: white
+
     .tellefone-mobile
         display: flex
         margin-right: 15px
@@ -495,7 +499,28 @@ body
         display: none
 
     .top-menu.active
+        display: flex
+        position: fixed
+        background: rgb(34, 96, 167)
+        left: 0px
+        top: 60px
+        width: 100%
+        width: 260px
+
+    .top-menu.active .top-menu__list
         display: block
+        text-align: left
+        margin: auto
+        margin-right: 10px
+
+    .top-menu.active .top-menu__list li
+        margin-top: 10px
+        margin-bottom: 35px
+
+    .top-menu.active .top-menu__list a
+        font-size: 15px
+        color: white
+        font-family: Barlow-Bold
 
     .tellefone
         display: none
