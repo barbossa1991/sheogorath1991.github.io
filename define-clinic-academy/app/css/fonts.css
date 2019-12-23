@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Barlow-Bold;
+    src: url("../fonts/Barlow-Bold.ttf") format("woff");
+
+}
+@font-face {
+    font-family: Barlow-Light;
+    src: url("../fonts/Barlow-Light.ttf") format("woff");
+
+}
+@font-face {
+    font-family: Barlow-Regular;
+    src: url("../fonts/Barlow-Regular.ttf") format("woff");
+
+}
+@font-face {
+    font-family: MyriadProRegular;
+    src: url("../fonts/MyriadProRegular.ttf") format("woff");
+
+}
+@font-face {
+    font-family: Barlow-SemiBold;
+    src: url("../fonts/Barlow-SemiBold.ttf") format("woff");
+
+}
