@@ -384,6 +384,12 @@ body {
   margin-bottom: 20px;
   padding-bottom: 0; }
 
+.slider .slick-dots li button:hover {
+  cursor: pointer; }
+
+.slider .slick-dots li button:focus {
+  outline: none; }
+
 /* Активная точка */
 .slider .slick-dots li.slick-active button {
   background-color: transparent;
