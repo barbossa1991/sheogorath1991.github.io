@@ -27,18 +27,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/north.projects.githup.io.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/.gitignore" />
-        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1ZelQD3QCCR4TJGneU0UlMD0r3w" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -94,7 +82,13 @@
       <workItem from="1585654462718" duration="10028000" />
       <workItem from="1585899203557" duration="18626000" />
       <workItem from="1585978778019" duration="10440000" />
-      <workItem from="1586159737649" duration="6560000" />
+      <workItem from="1586159737649" duration="6973000" />
+      <workItem from="1586170314206" duration="3875000" />
+      <workItem from="1586244467185" duration="21628000" />
+      <workItem from="1586273296912" duration="3404000" />
+      <workItem from="1586327067173" duration="2560000" />
+      <workItem from="1586498111944" duration="11856000" />
+      <workItem from="1586594017751" duration="461000" />
     </task>
     <task id="LOCAL-00001" summary="experience block is done">
       <created>1585211283312</created>
@@ -152,7 +146,56 @@
       <option name="project" value="LOCAL" />
       <updated>1586169838636</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="slider bug fixes">
+      <created>1586169933339</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586169933339</updated>
+    </task>
+    <task id="LOCAL-00010" summary="slider bug fixes">
+      <created>1586170362228</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586170362228</updated>
+    </task>
+    <task id="LOCAL-00011" summary="slider dots bug fixes">
+      <created>1586170812922</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586170812922</updated>
+    </task>
+    <task id="LOCAL-00012" summary="brand box changes">
+      <created>1586171041601</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1586171041601</updated>
+    </task>
+    <task id="LOCAL-00013" summary="project_single page started">
+      <created>1586273709377</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586273709378</updated>
+    </task>
+    <task id="LOCAL-00014" summary="slider page in process">
+      <created>1586279271248</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586279271248</updated>
+    </task>
+    <task id="LOCAL-00015" summary="slider page in process">
+      <created>1586594062505</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1586594062505</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +222,11 @@
     <MESSAGE value="Footer is finished" />
     <MESSAGE value="desktop version is completed" />
     <MESSAGE value="bug fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fixes" />
+    <MESSAGE value="slider bug fixes" />
+    <MESSAGE value="slider dots bug fixes" />
+    <MESSAGE value="brand box changes" />
+    <MESSAGE value="project_single page started" />
+    <MESSAGE value="slider page in process" />
+    <option name="LAST_COMMIT_MESSAGE" value="slider page in process" />
   </component>
 </project>

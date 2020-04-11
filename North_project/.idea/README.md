@@ -1,1 +1,0 @@
-# north.projects.githup.io
