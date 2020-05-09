@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3c03a3a5-5664-484d-8ddf-520d8f99c705" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +90,7 @@
       <workItem from="1588745991082" duration="5191000" />
       <workItem from="1588833072922" duration="14951000" />
       <workItem from="1588864301933" duration="485000" />
+      <workItem from="1589003255166" duration="1778000" />
     </task>
     <task id="LOCAL-00001" summary="start a book market project">
       <created>1586631003566</created>
