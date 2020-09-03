@@ -1018,8 +1018,7 @@ body {
   transform: scale(1.2);
 }
 
-.slick-initialized .slick-slide {
-  display: block;
+.realization__slider.slick-initialized .slick-slide {
   display: flex;
   align-items: flex-end;
 }
